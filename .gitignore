@@ -1,0 +1,16 @@
+# Build artefacts and local files
+*.iso
+*.tar.gz
+*.tgz
+*.zip
+*.vdi
+*.vmdk
+*.qcow2
+*.ova
+*.log
+
+# Editors / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
